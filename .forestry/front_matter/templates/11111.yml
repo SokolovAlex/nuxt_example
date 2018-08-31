@@ -10,3 +10,5 @@ fields:
   config:
     required: false
   hidden: false
+pages:
+- dist/1234.md
